@@ -43,7 +43,6 @@
 - Figma
 - Draw.io
 - PlantUML
-- Git
 - Agile
 
 **Testing & Documentation**
